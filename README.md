@@ -34,5 +34,8 @@ Também sou violinista e professor de música, sempre equilibrando tecnologia e 
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VictorPortugues07/VictorPortugues07/output/snake.svg" alt="Cobrinha dos commits"/>
+</p>
 
 <h4 align="center">✨ Sempre aprendendo, codando e vivendo música 🎶</h4>
