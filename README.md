@@ -1,30 +1,42 @@
-Meu nome é Victor e sou estudante de **Técnico em Análise e Desenvolvimento de Sistemas (ADS)**. 🚀  
-Atualmente não tenho nenhum projeto próprio em andamento, mas estou sempre aprendendo e praticando para evoluir.  
-
-- 🌱 Estou aprendendo: **Angular**, **Java com Spring Boot** e **React**  
-- 👯 Procuro colaborar em: projetos do curso técnico e do programa **Jovem Desenvolver** da **Trier Sistemas**  
-- 💬 Pergunte-me sobre: programação, estudos e música 🎻  
-- 📫 Como me encontrar:  
-  - [LinkedIn](https://www.linkedin.com/in/victor-hugo-de-pieri-justino-bb487827a/)  
-  - **Email:** vdepierejustino@gmail.com  
-  - **Instagram:** [@victorhdepieri](https://instagram.com/victorhdepieri)  
-- ⚡ Curiosidade: toco e dou aulas de violino, a música faz parte da minha vida e estou sempre imerso nos estudos 🎶  
+<h1 align="center">👨‍💻 Olá, eu sou o Victor!</h1>
+<h3 align="center">Estudante de Técnico em Análise e Desenvolvimento de Sistemas (ADS) 🚀</h3>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas  
-![Angular](https://img.shields.io/badge/-Angular-333?style=for-the-badge&logo=angular)  
-![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=for-the-badge&logo=springboot)  
-![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)  
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)  
+### 👨 Sobre mim
+🎓 Estudante de **ADS**  
+🌱 Aprendendo: **Angular**, **Java + Spring Boot** e **React**  
+🎻 Músico: toco e ensino **violino**  
+🤝 Colaborando no programa **Jovem Desenvolver (Trier Sistemas)**  
 
 ---
 
-### 📊 GitHub Stats  
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPortugues07&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPortugues07&layout=compact&theme=dracula)  
+### 🚀 Tecnologias
+<p align="center">
+  <img src="https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-✨ Obrigado por visitar meu perfil! Sempre aberto a novas conexões e colaborações.  
+### 📊 GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorPortugues07&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPortugues07&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 📫 Contato
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-hugo-de-pieri-justino-bb487827a/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vdepierejustino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/victorhdepieri"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<h4 align="center">✨ Sempre aprendendo, codando e fazendo música 🎶</h4>
