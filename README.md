@@ -1,5 +1,3 @@
-## Hi there 👋  
-
 Meu nome é Victor e sou estudante de **Técnico em Análise e Desenvolvimento de Sistemas (ADS)**. 🚀  
 Atualmente não tenho nenhum projeto próprio em andamento, mas estou sempre aprendendo e praticando para evoluir.  
 
