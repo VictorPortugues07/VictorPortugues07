@@ -2,11 +2,11 @@
 <h3 align="center">Tecnólogo em Análise e Desenvolvimento de Sistemas 🚀</h3>
 
 <p align="center">
-Concluí o curso técnico em Análise e Desenvolvimento de Sistemas e <br/>
-fui aprovado em <b>1º lugar</b> no <b>Tecnólogo em Análise e Desenvolvimento de Sistemas</b>, 
-onde iniciarei minha graduação. <br/><br/>
+Concluí o curso técnico em Análise e Desenvolvimento de Sistemas e fui aprovado em 
+<b>1º lugar</b> no <b>Tecnólogo em Análise e Desenvolvimento de Sistemas</b> pelo 
+<b>IFSC – Instituto Federal de Santa Catarina</b>, onde iniciarei minha graduação.<br/><br/>
 Sou apaixonado por programação e música. Atualmente focado em <b>Angular</b>, 
-<b>Java com Spring Boot</b> e <b>React</b>. <br/>
+<b>Java com Spring Boot</b> e <b>React</b>.<br/>
 Também sou violinista e professor de música, unindo tecnologia e arte no meu dia a dia.
 </p>
 
@@ -28,11 +28,11 @@ Também sou violinista e professor de música, unindo tecnologia e arte no meu d
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=VictorPortugues07&show_icons=true&theme=tokyonight&custom_title=Minhas%20Estatísticas%20no%20GitHub&cache_seconds=1800&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=VictorPortugues07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
     height="150"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPortugues07&layout=compact&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&cache_seconds=1800&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VictorPortugues07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
     height="150"
   />
 </p>
@@ -55,4 +55,4 @@ Também sou violinista e professor de música, unindo tecnologia e arte no meu d
 
 <hr/>
 
-<h4 align="center">✨ Sempre aprendendo, evoluindo e vivendo música 🎶</h4>
+<h4 align="center">✨ Sempre evoluindo, codando e vivendo música 🎶</h4>
