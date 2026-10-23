@@ -40,7 +40,7 @@ dou aulas voluntárias e já toquei em apresentações beneficentes em hospitais
 **Dados & Segurança**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white)
 
@@ -67,7 +67,7 @@ dou aulas voluntárias e já toquei em apresentações beneficentes em hospitais
 
 - 🏆 **1º lugar** — Techstars Startup Weekend 2026 (validação de proposta de valor e prototipação)
 - 🏆 **1º lugar** — Hackathon UniSENAI
-- 🥈 **1º Regional / 6º Estadual** — Bootcamp PROTALENT
+- 🏅 **1º Regional / 6º Estadual** — Bootcamp PROTALENT
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — **UNISENAI** (em andamento)
 - 🎻 Professor voluntário de violino e apresentações beneficentes em hospitais
 
@@ -75,9 +75,14 @@ dou aulas voluntárias e já toquei em apresentações beneficentes em hospitais
 
 ### Atividade no GitHub
 
+<!-- Troque SEU-DOMINIO pelo domínio da sua própria instância no Vercel -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VictorPortugues07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VictorPortugues07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <a href="https://github.com/VictorPortugues07">
+    <img src="https://SEU-DOMINIO.vercel.app/api?username=VictorPortugues07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150"/>
+  </a>
+  <a href="https://github.com/VictorPortugues07?tab=repositories">
+    <img src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=VictorPortugues07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" height="150"/>
+  </a>
 </div>
 
 <div align="center">
